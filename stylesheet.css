@@ -19,18 +19,19 @@ a {
 }
 
 /* ここからCSSを書いていきましょう */
-footer {
+header {
     height: 90px;
     background: darkslateblue;
 }
 
-footer h1{
+header h1{
     color: white;
     font-size: 36px;
     margin: 20px;
 }
 
 img {
+  top: 90px;
   width: 100%;
 }
 
