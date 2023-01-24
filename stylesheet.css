@@ -20,13 +20,14 @@ a {
 
 /* ここからCSSを書いていきましょう */
 header {
-    height: 90px;
+    height: 70px;
     background: darkslateblue;
+    float: left;
 }
 
 header h1{
     color: white;
-    font-size: 36px;
+    font-size: 20px;
     margin: 20px;
 }
 
