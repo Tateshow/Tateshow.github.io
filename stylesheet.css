@@ -19,6 +19,16 @@ a {
 }
 
 /* ここからCSSを書いていきましょう */
+footer {
+    background: darkslateblue;
+}
+
+footer h1{
+    color: white;
+    font-size: 36px;
+    margin: 20px;
+}
+
 img {
   width: 100%;
 }
