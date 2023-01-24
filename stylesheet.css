@@ -20,6 +20,7 @@ a {
 
 /* ここからCSSを書いていきましょう */
 footer {
+    height: 90px;
     background: darkslateblue;
 }
 
